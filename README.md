@@ -1,6 +1,6 @@
 # gostack-desafio7-gofinances
 Desafio 07: GoFinances
 
-<a href="">Frontend</a>
+<a href="gostack-desafio7-gofinances-frontend">Frontend</a>
 <br/>
-<a href="">Backend</a>
+<a href="gostack-desafio7-gofinances-backend">Backend</a>
